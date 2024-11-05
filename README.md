@@ -22,10 +22,9 @@ Here are a few technologies and tools I’m currently working with:
   ![Python](https://img.icons8.com/color/48/000000/python.png)
 
 ## 🌐 Connect with Me
-  Feel free to reach out to me on: 
-  ![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)
-  [(mailto:calebeluz2@gmail.com)]
-  calebeluz2@gmail.com
+Feel free to reach out to me on:  
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:calebeluz2@gmail.com)  
+**calebeluz2@gmail.com**
 
 ---
 
