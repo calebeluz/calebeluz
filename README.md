@@ -22,9 +22,7 @@ Here are a few technologies and tools I’m currently working with:
   ![Python](https://img.icons8.com/color/48/000000/python.png)
 
 ## 🌐 Connect with Me
-Feel free to reach out to me on:
-
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/kebek_q)  
+Feel free to reach out to me on: 
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:calebe.luz08@aluno.ifce.edu.br)
 
 ---
