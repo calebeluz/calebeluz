@@ -24,8 +24,8 @@ Here are a few technologies and tools I’m currently working with:
 ## 🌐 Connect with Me
 Feel free to reach out to me on:
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/maxsksr)  
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sousamaciel@aluno.ifce.edu.br)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/kebek_q)  
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:calebe.luz08@aluno.ifce.edu.br)
 
 ---
 
