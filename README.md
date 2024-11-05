@@ -1,4 +1,4 @@
-# Hello! I'm Calebe Rodrigues Luz 🌟
+# Hello! I'm Calebe Rodrigues Luz <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Information Technology** at the **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Maranguape campus**.
 
